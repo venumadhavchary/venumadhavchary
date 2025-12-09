@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Venu Madhav Chary
+# 👋 Hey there! I'm Chary
 
 <div align="center">
   
@@ -32,8 +32,6 @@ class Developer {
 - 💼 Currently working on **GarageMitra** - revolutionizing garage management
 - 🎓 Student passionate about backend development and system architecture
 - 🔧 3 years of hands-on experience crafting scalable backend solutions
-- 🌱 Currently diving deeper into Python and cloud technologies
-- 💡 Love exploring new frameworks and optimizing database queries
 - ⚡ Fun fact: My backend code runs smoother than my frontend designs! 😄
 
 ---
