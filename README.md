@@ -20,7 +20,7 @@ class Developer {
     public $name = "Venu Madhav Chary";
     public $role = "Backend Developer";
     public $experience = "3 years";
-    public $currentProject = "Garagemithra";
+    public $currentProject = "GarageMitra";
     public $location = "India";
     
     public function sayHi() {
@@ -29,7 +29,7 @@ class Developer {
 }
 ```
 
-- 💼 Currently working on **Garagemithra** - revolutionizing garage management
+- 💼 Currently working on **GarageMitra** - revolutionizing garage management
 - 🎓 Student passionate about backend development and system architecture
 - 🔧 3 years of hands-on experience crafting scalable backend solutions
 - 🌱 Currently diving deeper into Python and cloud technologies
@@ -52,7 +52,6 @@ class Developer {
 
 ### Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Platforms
@@ -69,7 +68,7 @@ class Developer {
 
 ## 💼 Current Focus
 
-### 🔧 Garagemithra
+### 🔧 GarageMitra
 Working on an innovative garage management system that streamlines operations and enhances customer experience. Leveraging modern backend technologies to create a scalable and efficient solution.
 
 **Key areas:**
@@ -105,20 +104,15 @@ class MindSet {
         'continuous_learning' => true,
         'clean_code' => 'always',
         'testing' => 'essential',
-        'documentation' => 'love it'
+        'documentation' => 'hate it'
     ];
     
     public function dailyRoutine(): array {
         return [
             'Learn something new',
             'Write better code than yesterday',
-            'Help someone in the community',
             'Push to GitHub'
         ];
-    }
-    
-    public function getMotivation(): string {
-        return "Turning coffee into code since 2021 ☕";
     }
 }
 ?>
