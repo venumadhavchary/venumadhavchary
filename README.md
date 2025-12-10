@@ -102,7 +102,7 @@ class MindSet {
         'continuous_learning' => true,
         'clean_code' => 'always',
         'testing' => 'essential',
-        'documentation' => 'hate it'
+        'documentation' => 'not_my_type_but_necessary'
     ];
     
     public function dailyRoutine(): array {
