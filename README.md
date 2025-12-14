@@ -70,10 +70,10 @@ class Developer {
 Working on an innovative garage management system that streamlines operations and enhances customer experience. Leveraging modern backend technologies to create a scalable and efficient solution.
 
 **Key areas:**
-- 🏗️ Building robust RESTful APIs
 - 🗄️ Database architecture and optimization
 - 🔐 Implementing secure authentication systems
 - 📊 Performance monitoring and optimization
+- 🏗️ Building robust RESTful APIs
 
 ---
 
