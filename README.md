@@ -1,4 +1,4 @@
-<img width="1097" height="477" alt="image" src="https://github.com/user-attachments/assets/ac622998-8d87-4c73-b474-e34667bbba91" /># 👋 Hey there! I'm Chary
+# 👋 Hey there! I'm Chary
 
 <div align="center">
   
